@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/MafiaShop/precache-manifest.c9c0e6a26e682428c291cc452efb8093.js"
+  "/MafiaShop/precache-manifest.8d25005ff067d5ed62bffcd7e824f572.js"
 );
 
 workbox.clientsClaim();
